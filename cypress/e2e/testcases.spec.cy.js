@@ -10,7 +10,7 @@ describe ('TestcasesHomework', () => {
         homepageAZ.signIn().click();
         cy.pause();
     })
-    it ('Test2', () => {
+    it ('Test2',() => {
        
     })
 });
