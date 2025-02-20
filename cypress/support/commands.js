@@ -23,3 +23,5 @@
 //
 // -- This will overwrite an existing command --
 // Cypress.Commands.overwrite('visit', (originalFn, url, options) => { ... })
+// const { describe, it, beforeEach, before, after, afterEach, beforeAll, afterAll} = require('mocha'); 
+// const { expect,  assert, should} = require('chai');
