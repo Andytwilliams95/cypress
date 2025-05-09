@@ -4,13 +4,32 @@ beforeEach(() => {
     cy.visit('https://www.amazon.com/')
 })
 
-describe ('TestcasesHomework', () => {
+describe ('TestcasesAZ', () => {
     it ('Test1', () => {
         cy.visit('https://www.amazon.com/');
         homepageAZ.signIn().click();
         cy.pause();
     })
-    it ('Test2',() => {
-       
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    it ('asdad', () => {
+
     })
 });
